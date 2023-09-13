@@ -1,0 +1,22 @@
+{
+  "name": "swtor---mando",
+  "version": "1.0.0",
+  "description": "database connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turek979/swtor-mando.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turek979/swtor-mando/issues"
+  },
+  "homepage": "https://github.com/turek979/swtor-mando#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
